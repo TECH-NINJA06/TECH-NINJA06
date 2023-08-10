@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <h3> I am a coder and gamer. Working on some projects and learning new stuff.
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw00vAXyYEg_DZ8qpWjR6IAd&ust=1691755840619000&source=images&cd=vfe&opi=89978449&ved=0CA8QjhxqFwoTCJjXjfqH0oADFQAAAAAdAAAAABAD">
+<img src="https://images.app.goo.gl/zoSzzvRNEEmFbJJCA">
 
 <p>I enjoy reading, watching anime, gaming and programming. I am working on improving my skills and am open to learning new things.</p>
 

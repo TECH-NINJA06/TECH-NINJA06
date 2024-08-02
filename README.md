@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on freelance projects <br>🌱 I’m currently learning System Design and Next JS<br>⚡ Fun fact: I also love watching anime
+🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on freelance projects <br>🌱 I’m currently learning System Design and Machine Learning<br>⚡ Fun fact: I also love watching anime
 
 
 ## 🌐 Socials:

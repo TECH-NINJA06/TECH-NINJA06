@@ -75,7 +75,7 @@
 <br>
 
 ### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=TECH-NINJA06&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=TECH-NINJA06&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 

@@ -1,6 +1,6 @@
 # 🚀 Harsh Telang
 **AI Systems & Software Engineer**  
-*Architecting autonomous multi-agent systems, LLM orchestration layers, and scalable backends.*
+*Architecting autonomous multi-agent systems, LLM orchestration layers, and scalable systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-telang-226a70265)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshTelang06)
